@@ -104,7 +104,12 @@
       </a>
     </div>
 <!--end carousel->
-
+<!--footer-->
+<footer>
+    <p class="pull-right"><a href="#">Back to top</a></p>
+    <p>© 2014 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+</footer>
+<!--end footer-->
 <!--Import script -->
 <script type="text/javascript" src="../skin/js/jquery.js"></script>
 <script type="text/javascript" src="../skin/js/theme-script.js"></script>
